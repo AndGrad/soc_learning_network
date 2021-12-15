@@ -3,7 +3,7 @@
 
 This folder contains all the data and the scripts to reproduce the analyses and the figures reported in the manuscript "Network Centrality Shape Social Learning in the Classroom", accepted for publication at “School Psychology”.
 
-The script are written in R, using RStudio, so the most straitghtforward way to exectute the scripts is to import the entire folder as a RStudio project. If exectuing the scripts in basic R, make sure to replace 
+The script are written in R, using RStudio, so the most straitghtforward way to exectute the scripts is to import the entire folder as a RStudio project. If exectuing the scripts in basic R, make sure to save the data in folders with the same names, or to update the paths when the data is loaded. 
 
 The most comprehensive dataset, containing both the behavioral data and the social network data relative to the participants, is stored in the file ‘clean_data/BEAST_data.csv’ . In this dataset, each row contains the data from one round of the experimental game: the decisions of the player, and the information about the classroom peer that they observed in that round.
 
