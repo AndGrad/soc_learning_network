@@ -17,4 +17,4 @@ The main analaysis of the paper are performed in the file ‘scripts/analysis_ma
 
 The SPSS script is available in the file ‘scripts/MLMED_Beta_2.sps’. The mediation was run with the data contained in the file file ‘clean_data/BEAST_data_meanS.csv’.
 
-For any question or clarification regarding this repository, please contact the responsible researcher Andrea Gradassi, at a.gradassi@uva.nl.
+For any question or clarification regarding this repository, please contact the responsible researcher Andrea Gradassi, at andrea.gradassi@gmail.com.
